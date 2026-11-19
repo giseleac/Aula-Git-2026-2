@@ -1,10 +1,10 @@
 Lista de Compras
 1. Coca-cola Zero
-<<<<<<< HEAD
 2. Trakinas Chocolate/Chocolate Branco
-3. Pastelina
-4. Maçã
-5. Alface
-6. Trakinas Chocolate/Morango
+3. Trakinas Limão
+4. Pastelina
+5. Maçã
+6. Alface
+7. Trakinas Chocolate/Morango
 
 
